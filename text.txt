@@ -9,3 +9,10 @@ y en la cuarta modfiicamos la el numero por la letra
 si, es verdad, toda la inforacion debe esta en español, asi que aghora queda correguido
 
 
+
+
+
+
+main 1
+
+main 2
