@@ -5,6 +5,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 > Este es el cambio que esta en el readme para la clase de cherry pick
 > este el es el segundo commit del documento readme 
+> este el es el tercer  commit del documento readme 
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
